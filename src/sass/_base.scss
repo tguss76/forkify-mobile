@@ -29,7 +29,7 @@ $bp-smallest: 31.25em; // 500px
 
 html {
   box-sizing: border-box;
-  font-size: 62.5%;
+  font-size: 60%;
 
   // @media only screen and (max-width: $bp-smallest) {
   @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
@@ -50,9 +50,9 @@ body {
 
 .container {
   max-width: 90rem;
-  min-height: 90rem;
-  margin: 4vw auto;
-  background-color: rgb(221, 36, 36);
+  min-height: 100rem;
+  margin: 2vw auto;
+  background-color: rgb(250, 245, 245);
   border-radius: 9px;
   // border-color: black;
   overflow: hidden;

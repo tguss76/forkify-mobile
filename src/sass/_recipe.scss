@@ -40,7 +40,7 @@
     transform: translate(-50%, 20%) skewY(-6deg);
     color: #fff;
     font-weight: 700;
-    font-size: 3.25rem;
+    font-size: 1.4rem;
     text-transform: uppercase;
     width: 50%;
     line-height: 1.95;
@@ -49,7 +49,7 @@
     span {
       -webkit-box-decoration-break: clone;
       box-decoration-break: clone;
-      padding: 1.3rem 2rem;
+      padding: 0.5rem 1rem;
       background-image: linear-gradient(
         to right bottom,
         $color-grad-1,

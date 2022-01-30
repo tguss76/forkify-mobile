@@ -21,10 +21,10 @@
   }
 
   &__fig {
-    flex: 0 0 5.8rem;
+    flex: 0 0 3.8rem;
     border-radius: 50%;
     overflow: hidden;
-    height: 5.8rem;
+    height: 3.8rem;
     margin-right: 2rem;
     position: relative;
     backface-visibility: hidden;
@@ -64,7 +64,7 @@
 
   &__title {
     grid-column: 1/-1;
-    font-size: 1.45rem;
+    font-size: 1rem;
     color: $color-primary;
     text-transform: uppercase;
     font-weight: 600;
